@@ -172,3 +172,9 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+/server/egg_detection/model/test/images
+/server/egg_detection/model/test/labels
+/server/egg_detection/model/train/images
+/server/egg_detection/model/train/labels
+/server/egg_detection/model/valid/images
+/server/egg_detection/model/valid/labels
